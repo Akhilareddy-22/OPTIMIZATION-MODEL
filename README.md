@@ -12,6 +12,7 @@ DURATION:4 WEEKS
 MENTOR:NEELA SANTOSH
 
 PROJECT OVERVIEW
+
 This project focuses on solving a real-world business problem using optimization techniques, particularly Linear Programming, with the help of Python libraries such as PuLP. The goal of the project is to identify the best possible solution from multiple feasible options while satisfying given constraints and maximizing or minimizing a specific objective.
 In many business scenarios, organizations face challenges such as minimizing production cost, maximizing profit, optimizing resource allocation, scheduling tasks, and managing supply chains. These problems cannot be solved efficiently using simple calculations. Optimization models help in making data-driven and mathematically optimal decisions.
 In this project, the business problem is first defined by identifying decision variables, constraints, and an objective function. The objective function represents what needs to be optimized, such as profit maximization or cost minimization. Constraints represent real-world limitations such as budget, labor, material availability, or time.
@@ -46,5 +47,6 @@ Run:python optimization.py
  ![Image](https://github.com/user-attachments/assets/4226527d-e26e-4e3d-92ae-e13b8bbb3c67)
 
 ![Image](https://github.com/user-attachments/assets/53e358da-714f-4763-a21b-3a03e1c5591e)
+
 
 

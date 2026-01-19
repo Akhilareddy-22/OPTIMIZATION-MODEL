@@ -22,11 +22,7 @@ Maximize business profit using limited labor and machine resources.
 
 1. Install dependencies:
 pip install -r requirements.txt
+Run:python optimization.py
 
-2. Run Pytpip hon file:
-python src/optimization.py
+ovides optimal production quantities to maximize profit.
 
-3. View output in results folder.
-
-## Outcome
-The model provides optimal production quantities to maximize profit.

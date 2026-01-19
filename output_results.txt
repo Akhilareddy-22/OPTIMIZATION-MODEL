@@ -1,0 +1,4 @@
+Status: Optimal
+Product A Units: 20.0
+Product B Units: 60.0
+Maximum Profit: Rs 2600.0
